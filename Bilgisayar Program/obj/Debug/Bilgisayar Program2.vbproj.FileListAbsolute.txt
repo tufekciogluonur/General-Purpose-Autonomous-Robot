@@ -1,0 +1,13 @@
+C:\Documents and Settings\002164\My Documents\Visual Studio 2008\Projects\Bilgisayar Program2\bin\Debug\Bilgisayar Program2.exe
+C:\Documents and Settings\002164\My Documents\Visual Studio 2008\Projects\Bilgisayar Program2\bin\Debug\Bilgisayar Program2.pdb
+C:\Documents and Settings\002164\My Documents\Visual Studio 2008\Projects\Bilgisayar Program2\bin\Debug\Bilgisayar Program2.xml
+C:\Documents and Settings\002164\My Documents\Visual Studio 2008\Projects\Bilgisayar Program2\bin\Debug\Control_Datagrid.dll
+C:\Documents and Settings\002164\My Documents\Visual Studio 2008\Projects\Bilgisayar Program2\bin\Debug\Control_Datagrid.pdb
+C:\Documents and Settings\002164\My Documents\Visual Studio 2008\Projects\Bilgisayar Program2\bin\Debug\Control_Datagrid.xml
+C:\Documents and Settings\002164\My Documents\Visual Studio 2008\Projects\Bilgisayar Program2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\002164\My Documents\Visual Studio 2008\Projects\Bilgisayar Program2\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\002164\My Documents\Visual Studio 2008\Projects\Bilgisayar Program2\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\002164\My Documents\Visual Studio 2008\Projects\Bilgisayar Program2\obj\Debug\Bilgisayar Program2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\002164\My Documents\Visual Studio 2008\Projects\Bilgisayar Program2\obj\Debug\Bilgisayar Program2.exe
+C:\Documents and Settings\002164\My Documents\Visual Studio 2008\Projects\Bilgisayar Program2\obj\Debug\Bilgisayar Program2.xml
+C:\Documents and Settings\002164\My Documents\Visual Studio 2008\Projects\Bilgisayar Program2\obj\Debug\Bilgisayar Program2.pdb
